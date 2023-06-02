@@ -35,6 +35,7 @@ For more information on LL parsing, see
 | Maglev   | Not supported
 | Topaz    | Not supported
 | mruby    | Not supported
+| Opal     | >= 1.7
 
 For MRI you'll need a C90 compatible compiler such as clang or gcc. For JRuby
 you don't need any compilers to be installed as the .jar is packaged with the
