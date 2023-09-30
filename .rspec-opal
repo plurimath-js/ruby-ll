@@ -1,0 +1,4 @@
+--default-path=spec
+-I lib
+--opal-opt=-g,ansi
+-q ll/setup_opal
